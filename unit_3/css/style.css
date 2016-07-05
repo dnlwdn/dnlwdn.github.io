@@ -1,11 +1,26 @@
+h1 {
+	font-family: Georgia, "Open Sans";
+	font-weight: bold;
+	font-size: 42px;
+	padding-bottom: -5px;
+}
+
+
 p { 
 	text-align: center;
 }
 
 nav {
 	text-align: right;
+	padding-right: 10px;
+	position:relative;
 }
 
-.a {
-	text-align: left;
+div.desc1 {
+    padding: 10px;
+    text-align: center;
 }
+
+div.img1 {
+    padding: 10px;
+    text-align: center;
