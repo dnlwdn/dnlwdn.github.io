@@ -2,7 +2,6 @@ h1 {
 	font-family: Georgia, "Open Sans";
 	font-weight: bold;
 	font-size: 42px;
-	padding-bottom: -5px;
 }
 
 
@@ -12,15 +11,4 @@ p {
 
 nav {
 	text-align: right;
-	padding-right: 10px;
-	position:relative;
 }
-
-div.desc1 {
-    padding: 10px;
-    text-align: center;
-}
-
-div.img1 {
-    padding: 10px;
-    text-align: center;
