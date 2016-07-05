@@ -15,10 +15,18 @@ p {
 	color: #000000
 }
 
+.img { 	
+	margin-top: 25px;
+	margin-right: 20px;
+	margin-left: 25px;
+	margin-bottom: 25px;
+}
+
 nav {
 	text-align: right;
 	margin-top: 25px;
 	margin-right: 20px;
 	margin-left: 25px;
 	margin-bottom: 25px;
+
 }
