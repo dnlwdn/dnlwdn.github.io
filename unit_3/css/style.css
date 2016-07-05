@@ -1,3 +1,11 @@
-b {
-	
+p { 
+	text-align: center;
+}
+
+nav {
+	text-align: right;
+}
+
+.a {
+	text-align: left;
 }
